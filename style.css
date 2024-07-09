@@ -37,3 +37,7 @@ body {
     border: 0px solid;
       border-radius: 5px;
   }
+
+  .strike {
+    text-decoration: line-through;
+  }
